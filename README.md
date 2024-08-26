@@ -14,7 +14,7 @@ Class meetings:
 - 18 October
 - 25 October
 - 1 November
-- 8 November
+- 8 November: SEMINAR - Jerrod Penn, LSU ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
 - 15 November
 - 22 November
 - 29 November: Thanksgiving Break
