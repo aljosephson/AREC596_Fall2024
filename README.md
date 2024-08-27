@@ -15,7 +15,7 @@ Class meetings:
 - 25 October
 - 1 November
 - 8 November: SEMINAR - Jerrod Penn, LSU ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
-- 15 November
+- 15 November: SEMINAR - Joey Blumberg, US Forest Service ("Determinants of U.S. Water Use and Implications for Climate Change Sustainability")
 - 22 November
 - 29 November: Thanksgiving Break
 - 6 December
