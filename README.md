@@ -1,7 +1,7 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 24 August 2024. 
+Last update: 27 August 2024. 
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
