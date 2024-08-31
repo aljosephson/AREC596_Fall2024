@@ -5,8 +5,9 @@ Last update: 30 August 2024.
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
-- - - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
-- 6 September: chapter 1 discussion; GitHub overview 
+- - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
+- 6 September: chapter 1 discussion; GitHub overview
+- - Second Year Students to AMEX
 - 13 September
 - 20 September
 - 27 September
