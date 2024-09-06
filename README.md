@@ -1,17 +1,17 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 5 September 2024.
+Last update: 6 September 2024.
 
 If you're reading this and are in AREC594, but aren't sure how to use it, send me an email: aljosephson@ariona.edu. 
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
 - - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
-- 6 September: chapter 1 discussion; GitHub overview
+- 6 September: GitHub overview
 - - Second Year Students to AMEX
-- -  Assignment: GitHub tutorial 1
-- 13 September
+- -  Assignment: GitHub tutorial 1 (if you have not already): https://github.com/skills/introduction-to-github
+- 13 September: chapter 1 discussion 
 - 20 September
 - 27 September
 - 4 October
