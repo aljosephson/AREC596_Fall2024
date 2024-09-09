@@ -7,10 +7,10 @@ If you're reading this and are in AREC594, but aren't sure how to use it, send m
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
-- - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
+  - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
 - 6 September: GitHub overview
-- - Second Year Students to AMEX
-- -  Assignment: GitHub tutorial 1 (if you have not already): https://github.com/skills/introduction-to-github
+  - Second Year Students to AMEX
+  -  Assignment: GitHub tutorial 1 (if you have not already): https://github.com/skills/introduction-to-github
 - 13 September: chapter 1 discussion 
 - 20 September
 - 27 September
