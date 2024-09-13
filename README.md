@@ -10,8 +10,10 @@ Class meetings:
   - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
 - 6 September: GitHub overview
   - Second Year Students to AMEX
-  -  Assignment: GitHub tutorial 1 (if you have not already): https://github.com/skills/introduction-to-github
+  - Assignment: GitHub tutorial 1 (if you have not already): https://github.com/skills/introduction-to-github
 - 13 September: chapter 1 discussion
+  - For more on Wansink: from Vox (https://www.vox.com/science-and-health/2018/9/19/17879102/brian-wansink-cornell-food-brand-lab-retractions-jama) & from Buzzfeed (https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
+  - For more on meta-analyses from Data Colada: https://datacolada.org/106
   - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 19 September 
 - 20 September
 - 27 September
