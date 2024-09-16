@@ -1,9 +1,7 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 14 September 2024.
-
-If you're reading this and are in AREC594, but aren't sure how to use it, send me an email: aljosephson@ariona.edu. 
+Last update: 16 September 2024.
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
