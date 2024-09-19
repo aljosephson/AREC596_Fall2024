@@ -17,7 +17,7 @@ Class meetings:
   - https://www.troutman.com/professionals/miles-kiger.html, https://www.linkedin.com/in/miles-h-kiger-0a16373/details/experience/
   - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September 
 - 27 September
-- 4 October: NO CLASS
+- 4 October: GUEST - Danielle Buhrow 
 - 11 October
 - 18 October
 - 25 October
