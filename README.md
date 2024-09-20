@@ -15,8 +15,8 @@ Class meetings:
   - UPDATE: send a question for our guest speaker alum by 11.59 on 19 September
 - 20 September: GUEST - Miles Kiger
   - https://www.troutman.com/professionals/miles-kiger.html, https://www.linkedin.com/in/miles-h-kiger-0a16373/details/experience/
-  - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September 
-- 27 September
+  - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September; GitHub tutorial 2 
+- 27 September: chapter 2 discussion; GitHub beginning 
 - 4 October: GUEST - Danielle Buhrow 
 - 11 October
 - 18 October
