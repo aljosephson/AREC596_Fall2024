@@ -13,10 +13,10 @@ Class meetings:
   - For more on Wansink: from Vox (https://www.vox.com/science-and-health/2018/9/19/17879102/brian-wansink-cornell-food-brand-lab-retractions-jama) & from Buzzfeed (https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
   - For more on meta-analyses from Data Colada: https://datacolada.org/106
   - UPDATE: send a question for our guest speaker alum by 11.59 on 19 September
-- 20 September: GUEST - Miles Kiger
-  - https://www.troutman.com/professionals/miles-kiger.html, https://www.linkedin.com/in/miles-h-kiger-0a16373/details/experience/
-  - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September; GitHub tutorial 2 
-- 27 September: chapter 2 discussion; GitHub beginning 
+- 20 September: basic GitHub overview: build repo, pull new branch
+  - NOTE: for Mac users, if you can't see your gitignore, then add "- defaults write com.apple.finder AppleShowAllFiles TRUE" to the command line
+  - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September
+- 27 September: chapter 2 discussion; GitHub beginning
 - 4 October: GUEST - Danielle Buhrow 
 - 11 October
 - 18 October
