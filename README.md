@@ -18,7 +18,8 @@ Class meetings:
   - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September
 - 27 September: chapter 2 discussion; GitHub beginning
   - Assignment: question for Danielle by 11.59 on 2 October (Wednesday!); Read REiAE, Ch. 3; two questions by 11.59 on 10 October
-- 4 October: GUEST - Danielle Buhrow 
+- 4 October: GUEST - Danielle Buhrow
+- Assignment: Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 11 October
 - 18 October
 - 25 October
