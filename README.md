@@ -1,7 +1,7 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 27 September 2024.
+Last update: 3 October 2024.
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
@@ -24,8 +24,8 @@ Class meetings:
 - 18 October
 - 25 October
 - 1 November
-- 8 November: SEMINAR - Jerrod Penn, LSU ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
+- 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
 - 15 November: SEMINAR - Joey Blumberg, US Forest Service ("Determinants of U.S. Water Use and Implications for Climate Change Sustainability")
-- 22 November
+- 22 November: SEMINAR ON 19 NOVEMBER - John Loomis, Colorado State University 
 - 29 November: Thanksgiving Break
 - 6 December
