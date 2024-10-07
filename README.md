@@ -1,7 +1,7 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 3 October 2024.
+Last update: 6 October 2024.
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
@@ -15,7 +15,7 @@ Class meetings:
   - UPDATE: send a question for our guest speaker alum by 11.59 on 19 September
 - 20 September: basic GitHub overview: build repo, pull new branch
   - NOTE: for Mac users, if you can't see your gitignore, then add "- defaults write com.apple.finder AppleShowAllFiles TRUE" to the command line
-  - Assignment: Read REiAE, Ch. 2; two questions due to alj by 11.59 on 26 September
+  - Assignment: Read REiAE, Ch. 2; two questions due by 11.59 on 26 September
 - 27 September: chapter 2 discussion; GitHub beginning
   - Assignment: question for Danielle by 11.59 on 2 October (Wednesday!); Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 4 October: GUEST - Danielle Buhrow
