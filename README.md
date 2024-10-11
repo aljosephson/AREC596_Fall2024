@@ -20,7 +20,7 @@ Class meetings:
   - Assignment: question for Danielle by 11.59 on 2 October (Wednesday!); Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 4 October: GUEST - Danielle Buhrow
 - Assignment: Read REiAE, Ch. 3; two questions by 11.59 on 10 October
-- 11 October: discuss Ch. 3; maybe - game
+- 11 October: discuss Ch. 3; Game: Shayan Khan
 - 18 October
 - 25 October
 - 1 November
