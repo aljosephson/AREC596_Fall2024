@@ -19,9 +19,10 @@ Class meetings:
 - 27 September: chapter 2 discussion; GitHub beginning
   - Assignment: question for Danielle by 11.59 on 2 October (Wednesday!); Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 4 October: GUEST - Danielle Buhrow
-- Assignment: Read REiAE, Ch. 3; two questions by 11.59 on 10 October
+  - Assignment: Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 11 October: discuss Ch. 3; Game: Shayan Khan
-- 18 October
+  - Assigned: Read REiAE, Ch. 3 on Pre-Analysis Plans, if not already done
+- 18 October: discuss Ch. 3; CONFLICTS 
 - 25 October
 - 1 November
 - 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
