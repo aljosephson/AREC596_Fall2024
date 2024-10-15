@@ -17,7 +17,6 @@
 
 * TO DO:
 	* add run time 
-	* try to create a conflict, this time on line 20
 
 * **********************************************************************
 * 0 - setup
