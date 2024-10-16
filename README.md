@@ -22,8 +22,8 @@ Class meetings:
   - Assignment: Read REiAE, Ch. 3; two questions by 11.59 on 10 October
 - 11 October: discuss Ch. 3; Game: Shayan Khan
   - Assignment: Read REiAE, Ch. 3 on Pre-Analysis Plans, if not already done
-- 18 October: discuss Ch. 3; CONFLICTS
-  - Assignment: 
+- 18 October: discuss Ch. 3; create conflicts and resolve them in GitHub
+  - Assignment: Acemoglu readings
 - 25 October
 - 1 November
 - 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
