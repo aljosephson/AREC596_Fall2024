@@ -114,6 +114,31 @@
 *************************************************************************
 *************************************************************************
 
+* ----------------------------------------------------------------------*			
+* T5-2 (in L&t). Column 2 - Deaton/Benj shares specification 
+* ----------------------------------------------------------------------*
+*** WHAT IS OUR TABLE NUMBER? 
+		
+	eststo: 		reghdfe labor_d_log `hhshares' `rhs', absorb(hhcommtime) vce(cluster hhid)  			
+			
+	test 			`hhshares' 
+	estadd 			scalar  F   = r(F), replace
+	estadd 			scalar pv   = r(p), replace
+	
+	test 			sm1519 sm2034 sm3549 sm5064 smge65 
+	estadd 			scalar F_m = r(F), replace
+	estadd 			scalar pv_m = r(p), replace
+	
+	test 			sf0014 sf1519 sf2034 sf3549 sf5064 sfge65 
+	estadd 			scalar F_f = r(F), replace
+	estadd 			scalar pv_f = r(p), replace 
+	
+	test 			sm1519 sm2034 sm3549 sf1519 sf2034 sf3549 
+	estadd 			scalar F_p = r(F), replace
+	estadd 			scalar pv_p = r(p), replace
+
+*outreg2 using "`tables'/tab2.xls", keep(`hhshares	') addstat( "F-dems", `F',   "pval", `pv', "F_m", `F_m', "pv-m", `pv_m', "F_f", `F_f', "pv_f", `pv_f', "F_page", `F_p', "pv-page", `pv_p', nobs, _N) ctitle(hhs size + shares) dec(2)  noaster noobs nor2 
+
 /*
 vce(cluster farmhhid) is the robust standard error command where standard errors are clustered at the farmhhid level. 
 the observations are not completely independent at the farmhhid level, the farmhhid is the cluster, the observations may be independent accross clusters. 
@@ -142,6 +167,7 @@ we include community-time fixed effects.
 				
 *outreg2 using "`tables'/tab2.xls", keep(`hhcomp') adds( "F_m", `F_m', "pv-m", `pv_m', "F_f", `F_f', "pv_f", `pv_f', "F_page", `F_p', "pv-page", `pv_p', nobs, _N) ctitle(n. hh mem) dec(2) noaster noobs nor2 replace 
 
+
 * ----------------------------------------------------------------------*			
 * T5-2 (in L&t). Column 2 - Deaton/Benj shares specification 
 * ----------------------------------------------------------------------*
@@ -167,6 +193,8 @@ we include community-time fixed effects.
 
 *outreg2 using "`tables'/tab2.xls", keep(`hhshares	') addstat( "F-dems", `F',   "pval", `pv', "F_m", `F_m', "pv-m", `pv_m', "F_f", `F_f', "pv_f", `pv_f', "F_page", `F_p', "pv-page", `pv_p', nobs, _N) ctitle(hhs size + shares) dec(2)  noaster noobs nor2 
 						
+**# Bookmark #1
+
 ************************************************************************* 
 * 5b - including farm-level household fixed effects
 ************************************************************************* 
