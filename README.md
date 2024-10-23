@@ -24,7 +24,8 @@ Class meetings:
   - Assignment: Read REiAE, Ch. 3 on Pre-Analysis Plans, if not already done
 - 18 October: discuss Ch. 3; create conflicts and resolve them in GitHub
   - Assignment: Nobel readings: https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.91.5.1369, https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.6.3059, question on each by 11.59 on 24 October
-- 25 October
+- 25 October: discuss Acemoglu et al. and Albouy
+  - Assignment: 
 - 1 November
 - 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
 - 15 November: SEMINAR - Joey Blumberg, US Forest Service ("Determinants of U.S. Water Use and Implications for Climate Change Sustainability")
