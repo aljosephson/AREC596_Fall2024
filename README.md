@@ -1,7 +1,7 @@
 # AREC596_Fall2024
 Course website for AREC596 in the Fall of 2024. 
 
-Last update: 28 October 2024.
+Last update: 30 October 2024.
 
 Class meetings:
 - 30 August: syllabus, book, expectations, objectives
@@ -26,7 +26,7 @@ Class meetings:
   - Assignment: Nobel readings: https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.91.5.1369, https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.6.3059, question on each by 11.59 on 24 October
 - 25 October: discuss Acemoglu et al. and Albouy
   - Assignment: Read REiAE, Ch. 4; two questions by 11.59 on 31 October
-- 1 November: discuss Ch. 4
+- 1 November: discuss Ch. 4; reminder about thesis deadlines
 - 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
 - 15 November: SEMINAR - Joey Blumberg, US Forest Service ("Determinants of U.S. Water Use and Implications for Climate Change Sustainability")
 - 22 November: SEMINAR ON 19 NOVEMBER - John Loomis, Colorado State University 
