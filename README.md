@@ -28,8 +28,9 @@ Class meetings:
   - Assignment: Read REiAE, Ch. 4; two questions by 11.59 on 31 October
 - 1 November: discuss Ch. 4; reminder about thesis deadlines
 - 8 November: SEMINAR - Jerrod Penn, Louisana State University ("Hybrid discrete choice experiments: Overcoming issues of hypothetical and real formats")
-  - Meeting afterwards with students: until 2.30pm
+  - Meeting afterwards with students: until 2.30pm 
 - 15 November: SEMINAR - Joey Blumberg, US Forest Service ("Determinants of U.S. Water Use and Implications for Climate Change Sustainability")
+  - Meeting afterwards? 
 - 22 November: SEMINAR ON 19 NOVEMBER - John Loomis, Colorado State University 
 - 29 November: Thanksgiving Break
 - 6 December
